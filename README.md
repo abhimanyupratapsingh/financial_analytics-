@@ -1,4 +1,4 @@
-# financial_analytics-
+# financial_analytics
 Contains :
 ARIMA (AutoRegressive Integrated Moving Average)
 Definition:
