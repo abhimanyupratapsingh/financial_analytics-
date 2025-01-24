@@ -1,33 +1,24 @@
 # financial_analytics
-Contains :
 ARIMA (AutoRegressive Integrated Moving Average)
-Definition:
-ARIMA is a popular statistical method for analyzing and forecasting time series data. It models time-dependent data points by combining three components:
-
 AutoRegressive (AR): Incorporates the relationship between an observation and a number of its lagged (past) values.
 Integrated (I): Applies differencing to the data to make it stationary (i.e., to remove trends or seasonality).
 Moving Average (MA): Uses the dependency between an observation and residual errors from previous time steps.
 Applications in Financial Analytics:
-
 Forecasting stock prices or market indices.
 Predicting future sales or revenue trends.
 Modeling macroeconomic indicators like inflation and unemployment.
 Advantages:
-
 Effective for univariate time series forecasting.
 Provides clear interpretability of components.
 Limitations:
-
 Requires stationary data.
 Less effective for datasets with significant external influencing factors or complex patterns.
 Regression Analysis
 Definition:
 Regression analysis is a statistical method used to examine the relationship between dependent (response) and independent (predictor) variables. It predicts the value of the dependent variable based on the predictors.
-
 Types of Regression:
 Linear Regression:
 Assumes a linear relationship between dependent and independent variables.
-
 Equation: 
 𝑌
 =
